@@ -118,7 +118,7 @@ GitHub.sublime-settings
 .history
 
 # Personal additions
-__pycache__/
+!__pycache__/
 *.pyc
 __localcode
 venv
@@ -132,4 +132,4 @@ db copy.sqlite3
 static/
 
 __pycache__
-.vscode
+!.vscode
